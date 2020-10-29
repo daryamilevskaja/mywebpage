@@ -2,8 +2,10 @@ Tere! See on mu esimene veebileht!
 Tume teema on väga ilus!
 
 Minu nimi on Darja.
+
 **Minu matriklinumber on: 206392**
 
+Mulle meeldib matemaatika. Just seepärast ma tegin see tabel.
 <table>
   <tr>
     <th>Arv/Astme</th>
