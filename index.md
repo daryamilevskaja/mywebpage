@@ -1,10 +1,78 @@
-## Welcome to GitHub Pages
+Tere! See on mu esimene veebileht!
+Tume teema on väga ilus!
 
-You can use the [editor on GitHub](https://github.com/daryamilevskaja/mywebpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Minu nimi on Darja.
+**Minu matriklinumber on: 206392**
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+td, th {
+  border: 3px solid #daaddd;
+  text-align: left;
+  padding: 8px;
+}
 
-### Markdown
+tr:nth-child(even) {
+  background-color: #ffdffd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Arv/Astme</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>4</td>
+    <td>8</td>
+    <td>16</td>
+    <td>32</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>9</td>
+    <td>27</td>
+    <td>81</td>
+    <td>243</td>
+    <td>729</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>16</td>
+    <td>64</td>
+    <td>256</td>
+    <td>1024</td>
+    <td>4096</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>25</td>
+    <td>125</td>
+    <td>625</td>
+    <td>3125</td>
+    <td>15625</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>36</td>
+    <td>216</td>
+    <td>1296</td>
+    <td>7776</td>
+    <td>46656</td>
+  </tr>
+</table>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
