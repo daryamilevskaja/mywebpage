@@ -4,21 +4,6 @@ Tume teema on väga ilus!
 Minu nimi on Darja.
 **Minu matriklinumber on: 206392**
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 30%;
-}
-
-td, th {
-  border: 3px solid #daaddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #afdffd;
-}
 <table>
   <tr>
     <th>Arv/Astme</th>
