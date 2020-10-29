@@ -69,4 +69,4 @@ Siin peab olema pilt, ja ma panen siia niisugust pilte.
 Siin on ka link sellele, kes ta on: <a href="https://jojo.fandom.com/wiki/Joseph_Joestar">click</a>
 Lühidalt, ta on ühest animest, ja ma panin tema siia, sest tal oli hea taktika, ta tegi niimodi:
 
-<img src=https://media1.tenor.com/images/8dcdd7d0a9459951fddac8f0f116e299/tenor.gif?itemid=15566885" alt=" ">
+<img src="https://media1.tenor.com/images/8dcdd7d0a9459951fddac8f0f116e299/tenor.gif?itemid=15566885" alt=" ">
