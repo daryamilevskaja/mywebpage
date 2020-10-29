@@ -19,10 +19,6 @@ td, th {
 tr:nth-child(even) {
   background-color: #afdffd;
 }
-</style>
-</head>
-<body>
-
 <table>
   <tr>
     <th>Arv/Astme</th>
