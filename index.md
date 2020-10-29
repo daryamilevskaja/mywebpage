@@ -56,3 +56,9 @@ Mulle meeldib matemaatika. Just seepärast ma tegin see tabel.
     <td>46656</td>
   </tr>
 </table>
+
+See peaks näema väjla teistmoodi. Aga ok, niisugune on ka hea.
+
+Siin peab olema pilt, ja ma panen siia niisugust pilte.
+
+<img src="https://i.pinimg.com/originals/96/c2/83/96c28354e0c7a18e7d9df36b81eaaee5.png" alt=" ">
