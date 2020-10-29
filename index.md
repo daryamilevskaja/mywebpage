@@ -59,6 +59,9 @@ Mulle meeldib matemaatika. Just seepärast ma tegin see tabel.
 
 See peaks näema väjla teistmoodi. Aga ok, niisugune on ka hea.
 
+Ma õpin Tallinna Tehnikaülikoolis. Siin on minu ülikooli veebileht:
+<a href="https://taltech.ee/">click</a>
+
 Siin peab olema pilt, ja ma panen siia niisugust pilte.
 
 <img src="https://i.pinimg.com/originals/96/c2/83/96c28354e0c7a18e7d9df36b81eaaee5.png" alt=" ">
